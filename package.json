@@ -1,6 +1,6 @@
 {
   "name": "split-file-by-line",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Split a file into several files per line",
   "main": "index.js",
   "scripts": {
